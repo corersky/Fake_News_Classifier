@@ -41,6 +41,8 @@ For instance: “Bank”, “money” and “accounts” are often used in simil
 
 In this step, we have used this gensim word2vec model to calculate similarity between the two news headlines. Based on this similarity score, the three classes are separated as shown below:
 
+![alt text](/images/Word2Vec_Similarity_score.png?raw=true "Title")
+
 Description can be found in the python script: gensim_similarity.ipynb
 
 Reference:
