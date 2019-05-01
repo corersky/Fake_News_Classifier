@@ -29,6 +29,8 @@ Dataset was downloaded from kaggle which had one row representing the fake news 
 
 In this step, we have converted the two news headlines into a bag of words vector based on the count of words. The dot product of both the vectors representing is calculated and cosine similarity score is calculated. Based on this cosine similarity score, the three classes are separated as shown below:
 
+![alt text](/images/Cosine_similarity_distribution.png?raw=true "Title")
+
 Description can be found in the python script: cosine_similarity.ipynb
 
 #### 2. Gensim Word2Vec Model
