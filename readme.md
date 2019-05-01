@@ -68,7 +68,7 @@ Description can be found in the python script: feature_engineering.ipynb
 
 ## Twitter Sentiment Analysis on Indian Election 2019
 
-In this project, we have done sentiment analysis of the upcoming Lokshobha Elections for the political parties Congress and BJP by crawling tweets from different hashtags of either parties, party leaders, as well as news hashtags. The sentiments analysed covers different user-reactions. 
+In this part of the project, we have done sentiment analysis of the upcoming Lokshobha Elections for the political parties Congress and BJP by crawling tweets from different hashtags of either parties, party leaders, as well as news hashtags. The sentiments analysed covers different user-reactions. Everything related to this part is store in the folder Twitter_Sentiment_Analysis
 
 We have categorised the analytics into 3 sections:
 
