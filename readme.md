@@ -1,3 +1,5 @@
+![Alt text](images/Report_18.webp?raw=true "Title")
+
 # Project Report
 The amount of misinformation spread on the social media platform and by the media houses has increased a lot in the recent past. 
 Our society is in a grave danger because of the amount of misinformation spread since it can create mass hysteria, hatred and communal violence or polarization of votes during election based on incorrect data. 
