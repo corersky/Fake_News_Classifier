@@ -1,4 +1,4 @@
-![Alt text](images/Report_18.webp?raw=true "Title")
+![Alt text](images/Report_18.gif?raw=true "Title")
 
 # Project Report
 The amount of misinformation spread on the social media platform and by the media houses has increased a lot in the recent past. 
