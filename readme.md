@@ -62,7 +62,9 @@ https://radimrehurek.com/gensim/models/doc2vec.html
 
 #### 4. Sentiment Analysis
 
-Sentiment analysis uses data mining processes and techniques to extract and capture data for analysis in order to discern the subjective opinion of a document or collection of documents, like blog posts, reviews, news articles and social media feeds like tweets and status updates. Sentiment score of range -1 to +1 is considered with -1 being the most negative sentiment and +1 being the most positive sentiment. The behind this analysis is that given the two news headlines are related, opposite sentiment score can help us classify them as "disagreed" while the sentiment score with same sign would indicate that the lable should be "agreed" 
+Sentiment analysis uses data mining processes and techniques to extract and capture data for analysis in order to discern the subjective opinion of a document or collection of documents, like blog posts, reviews, news articles and social media feeds like tweets and status updates. Sentiment score of range -1 to +1 is considered with -1 being the most negative sentiment and +1 being the most positive sentiment. The behind this analysis is that given the two news headlines are related, opposite sentiment score can help us classify them as "disagreed" while the sentiment score with same sign would indicate that the lable should be "agreed". Distribution of this score is show below:
+
+![alt text](/images/Sentiment_score.png?raw=true "Title")
 
 Description can be found in the python script: sentiment_analysis.ipynb
 
